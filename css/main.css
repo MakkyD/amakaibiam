@@ -1,0 +1,147 @@
+#hero{
+    background-image:linear-gradient(60deg, rgba(20, 2, 2, 0), rgba(0, 0, 2, 0.657)),  url(../images/big-11.jpg);
+    background-size: cover;
+    /* width:500%;*/
+    /* height: 45.140rem; */
+} 
+
+
+
+li a{
+    color:grey !important;
+    padding:0px !important;
+}
+li{
+    padding: 10px;
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text{
+    padding-top:200px;
+}
+.bus{
+    font-size:30px;
+    font-family: 'Josefin Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding-bottom: -20px;
+}
+/* @media(max-width:493px) and (min-width:200px){
+    /* .logo{
+        width:300px; */
+        /* height:100px; */
+    
+    /* .job{
+        font-weight:800;
+    font-size:50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+
+    }
+ */ 
+
+.but{
+    border:rgb(57, 57, 167);
+    border-radius: 2px;
+    height: 60px;
+    width:250px;
+}
+
+.button{
+    padding-top: 120px;
+}
+
+.job{
+    font-weight:800;
+    font-size:60px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 40px;
+}
+
+.sec2{
+    padding-top:100px;
+}
+.brand{
+    font-weight:500;
+    font-size:55px;
+}
+.life{
+    font-size:30px;
+}
+.h a{
+    color:blue !important;
+    /* text-decoration: none !important; */
+    margin-left: -15% !important;
+}
+
+.I a{
+    color:blue !important;
+    margin-left: -15% !important;
+}
+
+.anotherbut{
+    height: 60px;
+    width:250px;
+    font-size: 20px;
+}
+.another{
+    padding-top:10%;
+    padding-bottom: 15%;
+}
+
+#section3{
+     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.657)), url(../images/second\ header\ image.jpg); 
+    background-color: grey;
+    height:30.140rem; 
+    margin-top: 5%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+ 
+.divider{
+  padding-left: 93%;
+    padding-top:10%;
+} 
+
+
+.mr-auto{
+    margin-left: 37%;
+    background-color: grey; 
+    background-size: 100%;
+}
+#section5{
+    background-color: rgb(36, 35, 35);
+}
+
+.navbar2:hover{
+    background-color:black;
+}
+
+.link-1 {
+    list-style-type: none;
+}
+.nav-item1{
+    padding:30px;
+}
+
+.btn{
+    background-color: grey;
+    border: 1px solid grey !important;
+    color:black;
+}
+.but-grp{
+    background-color: black !important;
+    color:white;
+   
+    
+}
+ .btn:hover{
+   background-color: black;
+ }
+
+ .icons{
+     padding-left:3%;
+ }
+ .fa{
+     padding:3%;
+ }
+ 
